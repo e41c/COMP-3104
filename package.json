@@ -1,0 +1,26 @@
+{
+  "name": "comp3104_devops",
+  "version": "1.0.0",
+  "description": "github repo for DevOps COMP3104 in program T177 at georgebrown college",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e41c/COMP-3104.git"
+  },
+  "keywords": [
+    "devops",
+    "git",
+    "github",
+    "georgebrown",
+    "t177"
+  ],
+  "author": "Eric Grigor 100668121",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e41c/COMP-3104/issues"
+  },
+  "homepage": "https://github.com/e41c/COMP-3104#readme"
+}
